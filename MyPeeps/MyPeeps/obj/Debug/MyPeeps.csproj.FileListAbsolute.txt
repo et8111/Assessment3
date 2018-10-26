@@ -1,0 +1,7 @@
+C:\Users\jowiesny\source\repos\Assessment3\MyPeeps\MyPeeps\bin\Debug\MyPeeps.exe.config
+C:\Users\jowiesny\source\repos\Assessment3\MyPeeps\MyPeeps\bin\Debug\MyPeeps.exe
+C:\Users\jowiesny\source\repos\Assessment3\MyPeeps\MyPeeps\bin\Debug\MyPeeps.pdb
+C:\Users\jowiesny\source\repos\Assessment3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.csprojAssemblyReference.cache
+C:\Users\jowiesny\source\repos\Assessment3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.csproj.CoreCompileInputs.cache
+C:\Users\jowiesny\source\repos\Assessment3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.exe
+C:\Users\jowiesny\source\repos\Assessment3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.pdb
