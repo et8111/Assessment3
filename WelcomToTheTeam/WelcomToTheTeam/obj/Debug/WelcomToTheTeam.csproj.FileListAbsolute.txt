@@ -1,0 +1,7 @@
+C:\Users\jowiesny\source\repos\Assessment3\WelcomToTheTeam\WelcomToTheTeam\bin\Debug\WelcomToTheTeam.exe.config
+C:\Users\jowiesny\source\repos\Assessment3\WelcomToTheTeam\WelcomToTheTeam\bin\Debug\WelcomToTheTeam.exe
+C:\Users\jowiesny\source\repos\Assessment3\WelcomToTheTeam\WelcomToTheTeam\bin\Debug\WelcomToTheTeam.pdb
+C:\Users\jowiesny\source\repos\Assessment3\WelcomToTheTeam\WelcomToTheTeam\obj\Debug\WelcomToTheTeam.csprojAssemblyReference.cache
+C:\Users\jowiesny\source\repos\Assessment3\WelcomToTheTeam\WelcomToTheTeam\obj\Debug\WelcomToTheTeam.csproj.CoreCompileInputs.cache
+C:\Users\jowiesny\source\repos\Assessment3\WelcomToTheTeam\WelcomToTheTeam\obj\Debug\WelcomToTheTeam.exe
+C:\Users\jowiesny\source\repos\Assessment3\WelcomToTheTeam\WelcomToTheTeam\obj\Debug\WelcomToTheTeam.pdb
